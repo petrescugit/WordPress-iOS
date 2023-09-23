@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 
 # 1.12.x and higher, starting from 1.12.1, because that hotfix fixes Xcode 14.3 compatibility
-gem 'cocoapods', '~> 1.12', '>= 1.12.1'
+gem 'cocoapods', '~> 1.13', '>= 1.13.0'
 gem 'commonmarker'
 gem 'danger', '~> 9.3'
 gem 'danger-rubocop', '~> 0.10'
