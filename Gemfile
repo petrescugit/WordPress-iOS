@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 
 # 1.12.x and higher, starting from 1.12.1, because that hotfix fixes Xcode 14.3 compatibility
-gem 'cocoapods', '~> 1.12', '>= 1.12.1'
+gem 'cocoapods', '~> 1.16', '>= 1.16.0'
 gem 'commonmarker'
 gem 'danger', '~> 9.3'
 gem 'danger-rubocop', '~> 0.10'
@@ -15,7 +15,7 @@ gem 'fastlane-plugin-sentry'
 # gem 'fastlane-plugin-wpmreleasetoolkit', git: 'git@github.com:wordpress-mobile/release-toolkit', branch: 'trunk'
 gem 'fastlane-plugin-wpmreleasetoolkit', '~> 9.0'
 gem 'rake'
-gem 'rubocop', '~> 1.30'
+gem 'rubocop', '~> 1.66', '>= 1.66.0'
 gem 'rubocop-rake', '~> 0.6'
 gem 'xcpretty-travis-formatter'
 
