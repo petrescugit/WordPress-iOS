@@ -16,7 +16,7 @@ gem 'fastlane-plugin-sentry'
 gem 'fastlane-plugin-wpmreleasetoolkit', '~> 9.0'
 gem 'rake'
 gem 'rubocop', '~> 1.30'
-gem 'rubocop-rake', '~> 0.6'
+gem 'rubocop-rake', '~> 0.7', '>= 0.7.0'
 gem 'xcpretty-travis-formatter'
 
 group :screenshots, optional: true do
